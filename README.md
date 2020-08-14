@@ -21,7 +21,13 @@ I am extremely passionate about developing performant🚀, user-focused UIs 😍
 I love❤️️ working with ReactJS⚛️, HTML, CSS and JavaScript but I also spend most of the time exploring the latest technologies like NodeJS, GatsbyJS, NextJS, GraphQL. I also worked with PHP, WordPress Theme/Plugin development.
 
 
+### :octocat: Github Contribution:
+
+![Rushi's github stats](https://github-readme-stats.vercel.app/api?username=rushijagani&theme=default&show_icons=true)
+
+
 ### 📫 How to reach me:
+
 - [Twitter](https://twitter.com/rushijagani_rj)
 - [LinkedIn](https://www.linkedin.com/in/rushi-jagani-99a37241/)
 - [Email📧](mailto:rushi.jagani@ymail.com)
